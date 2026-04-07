@@ -19,22 +19,16 @@ Cung cấp những thông tin này mình sẽ nhanh chóng tìm chuyến bay và
 ## Test Case 2
 **Q:** Tìm giúp tôi chuyến bay từ Hà Nội đi Đà Nẵng
 
-**A:** **Chuyến bay:** VietJet Air | 08:30 – 09:50 | 890.000 đ  
-**Khách sạn:** Sala Danang Beach (4⭐) | Khu vực: Mỹ Khê | 1.200.000 đ/đêm  
+**A:** Dưới đây là danh sách các chuyến bay trực tiếp từ Hà Nội → Đà Nẵng hiện có:
 
-**Tổng chi phí ước tính:**  
-- Vé máy bay: 890.000 đ  
-- Khách sạn (1 đêm): 1.200.000 đ  
-- **Tổng:** 2.090.000 đ  
-- **Còn lại:** 0 đ  
+| Hãng hàng không   | Giờ bay (khởi hành → đến) | Hạng ghế | Giá vé |
+|-------------------|--------------------------|----------|--------|
+| Vietnam Airlines  | 06:00 → 07:20            | Economy  | 1.450.000 đ |
+| Vietnam Airlines  | 14:00 → 15:20            | Business | 2.800.000 đ |
+| VietJet Air       | 08:30 → 09:50            | Economy  | 890.000 đ |
+| Bamboo Airways    | 11:00 → 12:20            | Economy  | 1.200.000 đ | 
 
-**Gợi ý thêm:**  
-- **Thời tiết:** Đà Nẵng thường ấm áp, nhiệt độ 24-30 °C, mùa mưa từ tháng 9-11; nếu đi trong thời gian này nhớ chuẩn bị áo mưa nhẹ.  
-- **Món ăn:** Đừng bỏ lỡ mì Quảng, bánh tráng cuốn thịt heo, và hải sản tươi sống ở khu vực biển Mỹ Khê.  
-- **Địa điểm check-in:** Bãi biển Mỹ Khê, Ngũ Hành Sơn, Cầu Rồng (có màu đèn LED quyến rũ vào buổi tối) và chợ Hàn để mua quà lưu niệm.  
-
-Chúc bạn có một chuyến đi thật vui và thoải mái! 🚀🌊🏨  
-
+Bạn có muốn mình gợi ý khách sạn ở Đà Nẵng hoặc tính tổng ngân sách cho chuyến đi không? 😊
 ---
 
 ## Test Case 3
