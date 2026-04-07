@@ -67,7 +67,7 @@ def search_flights(origin: str, destination: str ) -> str:
         return f'Không tìm thấy chuyến bay từ {origin} đến {destination}'
 
     #3. Format ket qua
-    return f'Danh sach chuyen bay tu {origin} den {destination}:\n'
+    result = f'Danh sach chuyen bay tu {origin} den {destination}:\n'
 
     for f in flights:
         # Định dạng giá tiền có dấu chấm phân cách

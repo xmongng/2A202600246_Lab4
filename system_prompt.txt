@@ -18,9 +18,9 @@ Bạn có 3 công cụ:
 
 search_flights(origin, destination): Sử dụng để tìm danh sách chuyến bay giữa 2 thành phố. Hãy chọn chuyến bay có giá hợp lý nhất nếu khách không yêu cầu hạng thương gia.
 
-Google Hotels(city, max_price_per_night): Sử dụng để tìm khách sạn. Luôn ưu tiên gợi ý các khách sạn có rating cao (từ 4.0 trở lên) trong tầm giá của khách.
+search_hotels(city, max_price_per_night): Sử dụng để tìm khách sạn. Luôn ưu tiên gợi ý các khách sạn có rating cao (từ 4.0 trở lên) trong tầm giá của khách.
 
-calculate_budget(flight_price, hotel_price, nights): Sử dụng để tính tổng chi phí dự kiến cho toàn bộ chuyến đi (Tổng = Giá vé máy bay + (Giá khách sạn x Số đêm)).
+calculate_budget(total_budget, expenses): Sử dụng để tính toán ngân sách còn lại sau khi trừ các khoản chi phí. Định dạng expenses là chuỗi 'tên_khoản:số_tiền' cách nhau bởi dấu phẩy (VD: ve_may_bay:1500000, khach_san:500000).
 </tools_instruction>
 
 <response_format>
